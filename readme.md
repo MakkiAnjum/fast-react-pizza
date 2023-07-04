@@ -4,7 +4,7 @@ This is a simple web application that allows users to order pizzas from a menu w
 
 ## Preview
 
-![Website Screenshot](https://example.com/path/to/screenshot.png)
+![Website Screenshot](https://fast-react-pizza.vercel.app/app.png)
 
 ## Features
 
