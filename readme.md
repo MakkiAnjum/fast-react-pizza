@@ -2,6 +2,10 @@
 
 This is a simple web application that allows users to order pizzas from a menu without the need for user accounts or login. Users can easily input their names before using the app and add multiple pizzas to a cart before placing an order. The app leverages modern web technologies such as React, Vite, React Router, tailwindcss, and Redux to provide a smooth and intuitive user experience.
 
+## Preview
+
+![Website Screenshot](https://example.com/path/to/screenshot.png)
+
 ## Features
 
 - **User-Friendly Interface**: The application offers a straightforward and intuitive interface, allowing users to order pizzas easily.
